@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Graphs",
         "DP",
-        "Graphs"
+        "LinkedLists"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
